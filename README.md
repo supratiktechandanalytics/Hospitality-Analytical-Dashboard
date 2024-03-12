@@ -3,10 +3,7 @@
 ### - by Supratik Sarkar 
 
 ## Task List
-I analyzed a sample dataset containing sales information of a dummy luxury hotel chain. I created: 
--metrics according to the metric list.
--a dashboard according to the mock-up provided by stakeholders.
--relevant insights that are not provided in the metric list/mock-up dashboard.
+I analyzed a sample dataset containing sales information of a dummy luxury hotel chain. I created metrics according to the metric list,a dashboard according to the mock-up provided by stakeholders and relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Skills implemented - 
 ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
